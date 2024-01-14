@@ -28,6 +28,8 @@ Feel free to explore the project to get insights into my coding practices.
 
 ## 📷 Screenshots
 
+---
+
 ![Screenshot_Nike_1](https://github.com/SarkissArmaniUS/Template_Website_Nike/assets/97789627/bff509a1-7af3-45d2-8b4e-ade99c8628da)
 
 ---
