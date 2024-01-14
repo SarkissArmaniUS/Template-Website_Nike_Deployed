@@ -25,3 +25,7 @@ Explore the project files to understand the clean and organized coding practices
 2. Open `index.html` in your preferred web browser.
 
 Feel free to explore the project to get insights into my coding practices.
+
+## 📷 Screenshots
+
+
