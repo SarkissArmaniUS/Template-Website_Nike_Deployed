@@ -25,7 +25,3 @@ Explore the project files to understand the clean and organized coding practices
 2. Open `index.html` in your preferred web browser.
 
 Feel free to explore the project to get insights into my coding practices.
-
-## 📄 License
-
-This project is a showcase of my skills and is licensed under the [MIT License](LICENSE).
