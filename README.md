@@ -1,4 +1,4 @@
-https://sarkissarmanius.github.io/Template_Website_Nike/
+https://sarkissarmanius.github.io/Template-Website_Nike_Deployed/
 
 # 👟 Nike Website Store
 
